@@ -1,1 +1,1 @@
-# pancakes-
+This project is about making protien pancakes!
